@@ -1,0 +1,14 @@
+-How do calculate gc percentage 
+
+GC_percentage=(sequence1.count('G')+sequence1.count('C'))/len(sequence1)
+print(GC_percentage)
+
+-Reverse compliment sequence
+
+comp=sequence2.reverse
+
+
+-Counts method attached to string 
+
+count = sequence1.count('G'),sequence1.count('C')
+print(count)
